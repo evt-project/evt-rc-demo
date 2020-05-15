@@ -1,2 +1,2 @@
-# evt-rc-demo
-A demo for the Ruthwell Cross 3D model edition using EVT2js beta2 
+# evt-sample-documents
+A collection of TEI documents used as edition examples in EVT.
